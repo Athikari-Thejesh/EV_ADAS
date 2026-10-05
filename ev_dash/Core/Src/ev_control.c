@@ -14,9 +14,7 @@
  *   PA0 = accel pedal, PA1 = brake pedal,
  *   PA2 = SOC (initial), PA3 = motor temperature
  */
-
 #include "ev_control.h"
-
 /* ─── Drive-mode torque scaling table ────────────────────────────────────── */
 static const float TORQUE_MAP[3] = {
     0.6f,   /* ECO    — 60 % max torque */
