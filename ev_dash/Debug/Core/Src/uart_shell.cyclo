@@ -1,9 +1,0 @@
-../Drivers/CMSIS/Include/core_cm3.h:1762:34:__NVIC_SystemReset	1
-../Core/Src/uart_shell.c:19:13:rb_push	2
-../Core/Src/uart_shell.c:28:16:rb_pop	2
-../Core/Src/uart_shell.c:38:13:shell_tx	1
-../Core/Src/uart_shell.c:44:6:print_status	4
-../Core/Src/uart_shell.c:106:13:process_cmd	21
-../Core/Src/uart_shell.c:237:6:Shell_Init	1
-../Core/Src/uart_shell.c:253:6:Shell_PushByte	1
-../Core/Src/uart_shell.c:259:6:Shell_Process	9

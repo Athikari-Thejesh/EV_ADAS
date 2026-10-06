@@ -1,0 +1,14 @@
+# STM32CubeIDE build output
+ev_dash/Debug/
+ev_dash/Release/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE temporary files
+*.log
