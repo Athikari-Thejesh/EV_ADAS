@@ -5,12 +5,7 @@
 A modular embedded firmware project built on the \*\*STM32F103C8T6 (ARM Cortex-M3)\*\* for real-time electric-vehicle monitoring and Advanced Driver Assistance System (ADAS) warning functions.
 
 
-
 The system combines vehicle monitoring, multi-sensor ultrasonic distance measurement, ADAS decision logic, fault handling, UART-based diagnostics, and a Python monitoring dashboard.
-
-
-
-\---
 
 
 
